@@ -1,8 +1,8 @@
 class AcpDevtools < Formula
   desc "Visual debugger and inspector for the Agent Client Protocol (ACP)"
   homepage "https://github.com/maksugr/acp-devtools"
-  url "https://registry.npmjs.org/acp-devtools/-/acp-devtools-0.6.1.tgz"
-  sha256 "1b2cd0b4d6c0d781e1d681d8bc09aba672484c950fd835c5493eb225fb66cf49"
+  url "https://registry.npmjs.org/acp-devtools/-/acp-devtools-0.6.2.tgz"
+  sha256 "77042781628e8f5c4c0cc779afa7a54c6599038e5335fec858fb159e51cf66f8"
   license "MIT"
 
   depends_on "node"
